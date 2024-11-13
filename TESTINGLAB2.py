@@ -1,14 +1,12 @@
-from socks import PRINTABLE_PROXY_TYPES
-print("welcome to eox")
+# Take two inputs from the user
+num1 = int(input("Enter the first number (dividend): "))
+num2 = int(input("Enter the second number (divisor): "))
 
-#variables
-import keyword
-print(keyword.kwlist)
+# Calculate quotient and remainder
+quotient = num1 // num2
+remainder = num1 % num2
 
-age=65
-age=90
-print(age)
+# Print the results
+print(f"The quotient is: {quotient}")
+print(f"The remainder is: {remainder}")
 
-age=29
-pi=3.13
-name="saithimmesh"

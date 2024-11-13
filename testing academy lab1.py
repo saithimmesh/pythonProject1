@@ -4,7 +4,3 @@ print("SAITHIMMESH", 152025, sep='*',)
 print("SAITHIMMESH", 152025, sep='_',)
 
 
-
-
-
-
